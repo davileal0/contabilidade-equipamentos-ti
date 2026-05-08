@@ -1,0 +1,40 @@
+[
+  { "id": "notebook", "name": "Notebook", "category": "Máquinas", "tiRoom": 12, "protheus": 8 },
+  { "id": "desktop", "name": "Desktop", "category": "Máquinas", "tiRoom": 7, "protheus": 11 },
+  { "id": "all-in-one", "name": "All-in-one", "category": "Máquinas", "tiRoom": 4, "protheus": 6 },
+  { "id": "smartphones", "name": "Smartphones", "category": "Máquinas", "tiRoom": 9, "protheus": 10 },
+  { "id": "mouse", "name": "Mouse", "category": "Periféricos", "tiRoom": 38, "protheus": 42 },
+  { "id": "teclado", "name": "Teclado", "category": "Periféricos", "tiRoom": 25, "protheus": 31 },
+  {
+    "id": "regua-filtro",
+    "name": "Régua de filtro de linha",
+    "category": "Periféricos",
+    "tiRoom": 14,
+    "protheus": 18
+  },
+  { "id": "headset", "name": "Headset", "category": "Periféricos", "tiRoom": 19, "protheus": 20 },
+  { "id": "mousepad", "name": "Mousepad", "category": "Periféricos", "tiRoom": 33, "protheus": 29 },
+  { "id": "mochila", "name": "Mochila", "category": "Periféricos", "tiRoom": 10, "protheus": 12 },
+  {
+    "id": "suporte-notebook",
+    "name": "Suporte para notebook",
+    "category": "Periféricos",
+    "tiRoom": 16,
+    "protheus": 14
+  },
+  {
+    "id": "suporte-vidro-monitor",
+    "name": "Suporte de vidro para monitor",
+    "category": "Periféricos",
+    "tiRoom": 6,
+    "protheus": 9
+  },
+  {
+    "id": "suporte-monitor-articulado",
+    "name": "Suporte de monitor articulado",
+    "category": "Periféricos",
+    "tiRoom": 5,
+    "protheus": 7
+  },
+  { "id": "webcam", "name": "Webcam", "category": "Periféricos", "tiRoom": 11, "protheus": 13 }
+]
